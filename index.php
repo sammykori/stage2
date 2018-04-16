@@ -8,7 +8,7 @@
             src: url(digital-7.ttf); font-size: 90px"><?php echo date("h:i:sa"); ?></h1>
 
             <p style="color:white; text-align: center; padding-top: 15px; font-family:'digital-7';
-            src: url(digital-7.ttf); font-size: 10px">HNG INTERNSHIP STAGE 1</p>
+            src: url(digital-7.ttf); font-size: 10px">HNG INTERNSHIP STAGE ONE</p>
         </div>
     </body>
 </html>
